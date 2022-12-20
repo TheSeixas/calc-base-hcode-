@@ -1,0 +1,1 @@
+let calcController = new ControllerCalc();
